@@ -1,0 +1,6 @@
+login: .\ic2140
+pw: ic214@
+
+n8n login
+user: polyuiot1@gmail.com
+pw: YK600chan
